@@ -1,0 +1,14 @@
+{
+  "Tomato - Early Blight": {
+    "description": "Caused by the fungus Alternaria solani. Appears as dark spots with concentric rings.",
+    "treatment": "Apply fungicides like chlorothalonil or copper-based sprays. Remove infected leaves."
+  },
+  "Apple - Black Rot": {
+    "description": "A fungal disease caused by Botryosphaeria obtusa. Causes fruit rot and leaf spots.",
+    "treatment": "Remove mummified fruit and infected branches. Apply captan or thiophanate-methyl."
+  },
+  "Tomato - Healthy": {
+    "description": "No signs of disease. The leaf is healthy and shows uniform green color.",
+    "treatment": "No treatment necessary."
+  }
+}

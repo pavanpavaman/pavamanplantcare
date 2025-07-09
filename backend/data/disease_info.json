@@ -1,0 +1,154 @@
+{
+  "Apple - Apple Scab": {
+    "description": "Apple scab is a fungal disease caused by Venturia inaequalis. It causes dark, scabby lesions on leaves, fruit, and sometimes young twigs.",
+    "treatment": "Apply fungicides early in the season. Remove and destroy infected leaves and debris. Use resistant apple varieties."
+  },
+  "Apple - Black Rot": {
+    "description": "Black rot is a fungal disease that affects apple trees, causing fruit rot, leaf spot, and cankers on branches.",
+    "treatment": "Prune infected branches, remove mummified fruit, and apply fungicides in early spring."
+  },
+  "Apple - Cedar Apple Rust": {
+    "description": "A fungal disease requiring two hosts: apples and junipers. Causes yellow-orange spots on apple leaves.",
+    "treatment": "Remove nearby junipers, apply fungicides during early leaf development, and use resistant varieties."
+  },
+  "Apple - Healthy": {
+    "description": "The apple plant appears healthy with no visible signs of disease or stress.",
+    "treatment": "Continue good horticultural practices like proper watering, pruning, and fertilization."
+  },
+  "Blueberry - Healthy": {
+    "description": "The blueberry plant is in good health with no visible symptoms of disease.",
+    "treatment": "Maintain healthy soil pH and provide consistent irrigation and mulch."
+  },
+  "Cherry - Powdery Mildew": {
+    "description": "Powdery mildew on cherry trees presents as a white, powdery fungal growth on leaves and shoots.",
+    "treatment": "Prune for air circulation and apply sulfur-based fungicides early in the season."
+  },
+  "Cherry - Healthy": {
+    "description": "Cherry plant is healthy with normal leaf and fruit development.",
+    "treatment": "Maintain regular care, watering, and monitor for any early disease signs."
+  },
+  "Corn - Cercospora Leaf Spot (Gray Leaf Spot)": {
+    "description": "Caused by the fungus Cercospora zeae-maydis, it appears as rectangular gray lesions on corn leaves.",
+    "treatment": "Use resistant hybrids, practice crop rotation, and apply fungicides during tasseling."
+  },
+  "Corn - Common Rust": {
+    "description": "Common rust causes small, round, cinnamon-brown pustules on corn leaves.",
+    "treatment": "Plant resistant varieties and apply fungicides if rust pressure is high."
+  },
+  "Corn - Northern Leaf Blight": {
+    "description": "A fungal disease forming long, elliptical gray-green lesions on corn leaves.",
+    "treatment": "Use resistant hybrids and apply fungicides at early tassel stage if needed."
+  },
+  "Corn - Healthy": {
+    "description": "Corn plant is growing normally with no visible diseases.",
+    "treatment": "Ensure adequate nutrients, monitor for pests and follow good agronomic practices."
+  },
+  "Grape - Black Rot": {
+    "description": "Black rot causes brown leaf spots and shriveled black fruit, reducing grape yield.",
+    "treatment": "Remove mummified grapes, apply fungicides, and prune for air circulation."
+  },
+  "Grape - Esca (Black Measles)": {
+    "description": "Esca causes black streaking in wood and tiger-stripe leaf symptoms, leading to vine decline.",
+    "treatment": "Remove infected vines, avoid pruning in wet conditions, and disinfect tools."
+  },
+  "Grape - Leaf Blight (Isariopsis Leaf Spot)": {
+    "description": "This fungal disease causes angular brown spots on grape leaves with yellow halos.",
+    "treatment": "Improve air circulation and apply protective fungicides."
+  },
+  "Grape - Healthy": {
+    "description": "The grapevine appears healthy with lush foliage and no signs of disease.",
+    "treatment": "Continue regular care including pruning, trellising, and disease monitoring."
+  },
+  "Orange - Haunglongbing (Citrus Greening)": {
+    "description": "HLB is a bacterial disease spread by psyllids that causes yellow shoots, lopsided fruit, and dieback.",
+    "treatment": "Control psyllid populations, remove infected trees, and follow regional management programs."
+  },
+  "Peach - Bacterial Spot": {
+    "description": "Causes dark, sunken spots on fruit and leaves, often leading to premature fruit drop.",
+    "treatment": "Apply copper sprays during dormant season and remove infected leaves or fruits."
+  },
+  "Peach - Healthy": {
+    "description": "The peach tree is healthy and productive with no current disease symptoms.",
+    "treatment": "Maintain proper irrigation, fertilization, and monitor for pests."
+  },
+  "Pepper, Bell - Bacterial Spot": {
+    "description": "Small, water-soaked lesions appear on pepper leaves and fruit, turning brown and sunken.",
+    "treatment": "Use certified seeds, apply copper-based fungicides, and rotate crops."
+  },
+  "Pepper, Bell - Healthy": {
+    "description": "Bell pepper plant is healthy with vigorous growth and green foliage.",
+    "treatment": "Continue with proper nutrient and pest management."
+  },
+  "Potato - Early Blight": {
+    "description": "Early blight causes dark concentric rings on older leaves, reducing yield.",
+    "treatment": "Apply fungicides like chlorothalonil and practice crop rotation."
+  },
+  "Potato - Late Blight": {
+    "description": "A serious disease caused by Phytophthora infestans leading to black lesions on leaves and tubers.",
+    "treatment": "Use certified seed, apply systemic fungicides, and destroy infected plants."
+  },
+  "Potato - Healthy": {
+    "description": "Potato plant shows no symptoms and has healthy foliage.",
+    "treatment": "Maintain soil health and ensure proper irrigation and hilling."
+  },
+  "Raspberry - Healthy": {
+    "description": "Raspberry bush is growing normally with no signs of disease or stress.",
+    "treatment": "Prune regularly and provide adequate nutrients and support structures."
+  },
+  "Soybean - Healthy": {
+    "description": "Soybean plants are thriving and disease-free.",
+    "treatment": "Maintain weed control, irrigation, and scout fields regularly."
+  },
+  "Squash - Powdery Mildew": {
+    "description": "Fungal disease forming white powdery growth on leaves, reducing photosynthesis.",
+    "treatment": "Apply sulfur-based or neem oil fungicides and improve airflow."
+  },
+  "Strawberry - Leaf Scorch": {
+    "description": "Causes small purple spots on leaves that dry and curl, often under humid conditions.",
+    "treatment": "Remove infected leaves and apply appropriate fungicides during flowering."
+  },
+  "Strawberry - Healthy": {
+    "description": "Strawberry plants appear vigorous with no apparent disease signs.",
+    "treatment": "Fertilize properly and ensure good drainage to avoid root diseases."
+  },
+  "Tomato - Bacterial Spot": {
+    "description": "Leads to black specks on leaves and fruit, affecting market quality.",
+    "treatment": "Use disease-free seeds, copper sprays, and avoid overhead watering."
+  },
+  "Tomato - Early Blight": {
+    "description": "Presents as concentric brown rings on lower leaves and can defoliate the plant.",
+    "treatment": "Use fungicides like mancozeb, prune lower leaves, and rotate crops."
+  },
+  "Tomato - Late Blight": {
+    "description": "Highly destructive disease causing water-soaked spots that become dark and moldy.",
+    "treatment": "Destroy infected plants, avoid overhead watering, and apply systemic fungicides."
+  },
+  "Tomato - Leaf Mold": {
+    "description": "Yellow patches on top of leaves and olive-green mold underneath, often in humid conditions.",
+    "treatment": "Improve ventilation, use resistant varieties, and apply fungicides."
+  },
+  "Tomato - Septoria Leaf Spot": {
+    "description": "Causes small circular leaf spots with dark borders and pale centers.",
+    "treatment": "Remove infected leaves, improve airflow, and use fungicides."
+  },
+  "Tomato - Spider Mites (Two-Spotted Spider Mite)": {
+    "description": "Tiny mites that cause stippling and webbing on leaves, leading to leaf drop.",
+    "treatment": "Use miticides or insecticidal soap and increase humidity."
+  },
+  "Tomato - Target Spot": {
+    "description": "Spots resemble targets with concentric rings, often on older leaves.",
+    "treatment": "Remove affected foliage and apply contact fungicides."
+  },
+  "Tomato - Yellow Leaf Curl Virus": {
+    "description": "Transmitted by whiteflies, this virus causes leaf curling, yellowing, and stunted growth.",
+    "treatment": "Control whiteflies, use resistant seeds, and remove infected plants."
+  },
+  "Tomato - Mosaic Virus": {
+    "description": "Leaves show a mottled green-yellow pattern and may become distorted.",
+    "treatment": "Remove infected plants and avoid tobacco products near crops."
+  },
+  "Tomato - Healthy": {
+    "description": "Tomato plant is thriving with green, disease-free leaves.",
+    "treatment": "Maintain soil fertility, avoid overwatering, and inspect for early signs of pests."
+  }
+}

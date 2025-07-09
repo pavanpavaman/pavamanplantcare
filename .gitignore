@@ -1,0 +1,30 @@
+# Ignore model files
+*.h5
+*.hdf5
+
+# Ignore Python cache and virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.env
+venv/
+backend/venv/
+
+# Ignore frontend build/output files
+node_modules/
+.next/
+dist/
+build/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore zip and temporary files
+*.zip
+*.tar
+*.gz
+.cache/
